@@ -1,0 +1,12 @@
+﻿  bank_with_oop.cpp
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_print_bank.h(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_print_bank.h(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_print_bank.h(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_print_bank.h(155,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_brint_users.h(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_brint_users.h(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_brint_users.h(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_brint_users.h(135,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\transform.h(69,7): warning C4101: 'add_balance': unreferenced local variable
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\transform.h(108,21): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'msvcprtd.lib'

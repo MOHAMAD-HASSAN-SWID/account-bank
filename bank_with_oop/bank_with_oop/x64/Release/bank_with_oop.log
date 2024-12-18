@@ -1,0 +1,18 @@
+﻿  bank_with_oop.cpp
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_print_bank.h(88,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'bank_with_oop.cpp')
+  
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\blue_brint_users.h(77,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'bank_with_oop.cpp')
+  
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\map_of_client.h(16,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'bank_with_oop.cpp')
+  
+C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\transform.h(69,7): warning C4101: 'add_balance': unreferenced local variable
+  (compiling source file 'bank_with_oop.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 544 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bank_with_oop.vcxproj -> C:\Users\alkac\OneDrive\Desktop\programing\c++\bank_with_oop\x64\Release\bank_with_oop.exe

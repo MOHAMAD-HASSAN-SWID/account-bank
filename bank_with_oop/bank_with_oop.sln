@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bank_with_oop", "bank_with_oop.vcxproj", "{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Debug|x64.ActiveCfg = Debug|x64
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Debug|x64.Build.0 = Debug|x64
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Debug|x86.ActiveCfg = Debug|Win32
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Debug|x86.Build.0 = Debug|Win32
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Release|x64.ActiveCfg = Release|x64
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Release|x64.Build.0 = Release|x64
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Release|x86.ActiveCfg = Release|Win32
+		{F28342E8-1B67-4DB9-9D96-F4A8B5A94036}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FBDD07-952D-4000-AEF5-D04FB10F1BAF}
+	EndGlobalSection
+EndGlobal
